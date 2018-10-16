@@ -1,0 +1,4 @@
+This repository holds my own implementations of various algorithms.
+I am coding them as I review the awesome textbook  "Algorithm Design" by Kleinberg and Tardos.
+
+They are minimally tested, so beware using in any of your own implementations.
